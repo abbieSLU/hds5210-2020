@@ -1,0 +1,20 @@
+    Q#        Your Response       Correct Answer   Feedback Points
+   1.1                    A                    C  INCORRECT   0.00
+   1.2                    D                    D    CORRECT   0.33
+   1.3                    B                    D  INCORRECT   0.00
+   2.1                    D                    B  INCORRECT   0.00
+   2.2                    A                    A    CORRECT   0.33
+   2.3                    D                    D    CORRECT   0.33
+   3.1           ['B', 'F']      ['B', 'C', 'F']  INCORRECT   0.00
+   3.2                    B                    C  INCORRECT   0.00
+   3.3                    B                    B    CORRECT   0.33
+   4.1                    A                    A    CORRECT   0.50
+   4.2                    C                    C    CORRECT   0.50
+   5.1                  0.0                    0    CORRECT   0.83
+                       20.0                   20    CORRECT   0.83
+   5.2                27.38                27.38    CORRECT   0.83
+                      22.04                22.04    CORRECT   0.83
+   5.3                76.73                76.73    CORRECT   0.83
+                      17.36                17.36    CORRECT   0.83
+
+Scored 7.33 out of 9.0: 81.48%

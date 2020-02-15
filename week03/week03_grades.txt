@@ -1,0 +1,27 @@
+importing Jupyter notebook from week03_assignment.ipynb
+    Q#        Your Response       Correct Answer   Feedback Points
+   9.1                    B                    C  INCORRECT   0.00
+   9.2                    A                    A    CORRECT   0.33
+   9.3                    A                    A    CORRECT   0.33
+  10.1                    C                    C    CORRECT   0.50
+  10.2                    D                    D    CORRECT   0.50
+  11.1                    B                    B    CORRECT   0.33
+  11.2                    A                    A    CORRECT   0.33
+  11.3                    C                    D  INCORRECT   0.00
+  12.1                    A                    A    CORRECT   0.33
+  12.2                    C                    C    CORRECT   0.33
+  12.3                    D                    D    CORRECT   0.33
+  13.1                    A                    A    CORRECT   0.50
+  13.2                    B                    B    CORRECT   0.50
+  14.1                False                False    CORRECT   0.42
+                       True                 True    CORRECT   0.42
+                       True                 True    CORRECT   0.42
+                       True                 True    CORRECT   0.42
+  14.2                    5                    5    CORRECT   0.83
+                         16                   16    CORRECT   0.83
+  14.3                False                False    CORRECT   0.56
+                       True                 True    CORRECT   0.56
+                       True                 True    CORRECT   0.56
+
+Scored 9.33 out of 10.0: 93.33%
+
