@@ -1,0 +1,98 @@
+importing Jupyter notebook from week05_assignment.ipynb
+Help on function longest in module week05_assignment:
+
+longest(some_list)
+    This function identifies the longest string in a list and returns the position number of that string. For example, in the string
+    list ["hey","abbie"] the longest word is abbie and the position number return should be 1. The function uses if statement within a loop
+    to run through every string list. Then it uses index to identify the position of the word. 
+    The code begins at zero for count then a for loop goes on in some_list. The for loop evaluates the length of the string and compares it
+    to the count. Then once length is determine that length of the word is search within the string and gives out the position of that 
+    word in that string. See below for test cases. 
+    
+    >>> longestWord(['hey','abbie'])
+    1
+    
+    >>> longestWord(['see', 'the','world'])
+    2
+
+Finding tests in NoName
+Trying:
+    longestWord(['hey','abbie'])
+Expecting:
+    1
+**********************************************************************
+File "week05_assignment.ipynb", line 12, in NoName
+Failed example:
+    longestWord(['hey','abbie'])
+Exception raised:
+    Traceback (most recent call last):
+      File "/opt/tljh/user/lib/python3.6/doctest.py", line 1330, in __run
+        compileflags, 1), test.globs)
+      File "<doctest NoName[0]>", line 1, in <module>
+        longestWord(['hey','abbie'])
+    NameError: name 'longestWord' is not defined
+Trying:
+    longestWord(['see', 'the','world'])
+Expecting:
+    2
+**********************************************************************
+File "week05_assignment.ipynb", line 15, in NoName
+Failed example:
+    longestWord(['see', 'the','world'])
+Exception raised:
+    Traceback (most recent call last):
+      File "/opt/tljh/user/lib/python3.6/doctest.py", line 1330, in __run
+        compileflags, 1), test.globs)
+      File "<doctest NoName[1]>", line 1, in <module>
+        longestWord(['see', 'the','world'])
+    NameError: name 'longestWord' is not defined
+Help on function safe_average in module week05_assignment:
+
+safe_average(nums)
+    (float)-> float
+    This function is to find the average of the numbers in the list. This can be done by taking the sums of the numbers and then 
+    take the length of the numbers in the list, which calculates the average of the numbers in the list. 
+    This function must also ignore strings and convert it to blanks. When this happens, the string or character is ignored and average 
+    is calculated only using real numbers/integers. See below for test cases. 
+    >>> safe_average([1,1,1])
+    1.0
+    >>> safe_average([2,2,'z'])
+    2.0
+
+Finding tests in NoName
+Trying:
+    safe_average([1,1,1])
+Expecting:
+    1.0
+ok
+Trying:
+    safe_average([2,2,'z'])
+Expecting:
+    2.0
+ok
+    Q#        Your Response       Correct Answer   Feedback Points
+  21.1                    A                    A    CORRECT   0.33
+  21.2                    A                    D  INCORRECT   0.00
+  21.3                    B                    B    CORRECT   0.33
+  22.1                                         D    CORRECT   0.50
+  22.2                 True                 True    CORRECT   0.50
+  23.1                    C                    D  INCORRECT   0.00
+  23.2                    D                    D    CORRECT   0.50
+  24.1                    A                    C  INCORRECT   0.00
+  24.2                    B                    B    CORRECT   0.50
+  25.1                    1                    1    CORRECT   0.83
+                          0                    0    CORRECT   0.83
+                          2                    2    CORRECT   0.83
+  25.2                  2.0                    2    CORRECT   0.83
+                       None                 None    CORRECT   0.83
+                      200.0                  200    CORRECT   0.83
+
+Scored 7.67 out of 9.0: 85.19%
+
+I removed another 0.2 points from 25.1 because you did not use the prescribed function name of "longest".  I know I'm being a stickler for details, but details are important for the computer.
+
+Final Score: 7.47
+
+
+I gave full credit for any answer on 22.1 because I had setup the solution cell wrong.
+
