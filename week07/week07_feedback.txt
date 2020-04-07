@@ -1,0 +1,11 @@
+Week 07 Feedback
+
+31.1: OK
+31.2: OK - you can also use "pd.shape"
+32.1: OK
+32.2: OK
+32.3: 0.5/1 - also B: BeautifulSoup
+
+Overall: 4.5/5
+
+Comments:
