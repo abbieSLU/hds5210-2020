@@ -1,0 +1,34 @@
+PART 1:
+This should have been written as a function.  -1
+
+I think that your solution took a round-about way to get there, but you did get the data into the right structure.  
+
+However, you should have been able to do it exclusively from the data on Wikipedia, not including the locations.json file in this step.  -1 
+
+
+PART 2:
+This should have been written as a function. -1
+
+PART 3:
+This should have been written as a function. -1
+
+When filtering the data, you can't necessarily depend on all of the MO counties being contiguous.  The filtering should have been done based on another function parameter, locations.  -5 because this was a core part of this step.
+
+PART 4:
+This should have been written as a function. -1
+
+Rather than relying on results from the previous work, you rewrote quite a bit of your previous code again here.
+
+Using variable names like df and part4 and data4 makes your code difficult to follow. -1
+
+Your results are generally correct.
+
+
+PART 5:
+This should have been written as a function. -1
+Using variable names like df and part4 and data4 makes your code difficult to follow. -1
+
+
+PART 6:
+There could have been more about the doubling-time in your observations, but thank you for making an effort.
+
